@@ -1,0 +1,12 @@
+REPO_TAGLINE: Go-to-market • experimentation • growth strategy
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/EAP5054-Formacao-Cientista-Empreendedor-II
+
+BG_1: "#111827"
+BG_2: "#7C2D12"
+TEXT_MAIN: "#F9FAFB"
+TEXT_MUTED: "#F3D6C6"
+ACCENT: "#FB923C"
+CARD_RADIUS: "18"
